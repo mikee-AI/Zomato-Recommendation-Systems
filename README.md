@@ -13,3 +13,4 @@ A Restaurant recommendation system uses content-based filtering. This method onl
 
 In other words, these algorithms try to recommend things similar to what a user liked in the past. The dataset I’ll be using here consists of restaurants in Bangalore, India, collected from Zomato.
 
+To create the Restaurant recommendation system, I will create a content-based recommendation system where when I enter the name of a restaurant, the Restaurant recommendation system will look at reviews from other restaurants, and System will recommend us to the other restaurants with similar reviews and sort them from the top-rated.
